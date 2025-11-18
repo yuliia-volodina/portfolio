@@ -69,7 +69,9 @@ const WorkExperience = () => {
     hidden: { opacity: 0, x: -50 },
     enter: { opacity: 1, x: 0 },
   };
-
+  const telegramGames = t("telegramGames.description", {
+    returnObjects: true,
+  });
   return (
     <div
       id="experience"
@@ -114,6 +116,27 @@ const WorkExperience = () => {
           );
         })}
       </ul>
+      <div>
+        <div>
+          <motion.h3
+            transition={{ type: "linear", duration: 1 }}
+            className={classnames(s.telegramTitle, s.otherTitle)}
+            variants={variants}
+            initial="hidden"
+            whileInView="enter"
+            viewport={{ once: true, amount: 0.2 }}
+          >
+            {t("experience.telegramGames")}
+          </motion.h3>
+        </div>
+        {telegramGames &&
+          telegramGames.length > 0 &&
+          telegramGames.map((el, index) => (
+            <div key={index} className={s.telegramDescription}>
+              {el}
+            </div>
+          ))}
+      </div>
       <motion.h3
         transition={{ type: "linear", duration: 1 }}
         className={classnames(s.title, s.otherTitle)}

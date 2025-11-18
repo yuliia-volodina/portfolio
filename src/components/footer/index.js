@@ -61,7 +61,7 @@ const Footer = () => {
               Linkidin
             </a>
             <a
-              href="https://github.com/yuliia-gorgodze"
+              href="https://github.com/yuliia-Volodina"
               className={s.link}
               rel="noreferrer"
               target="_blank"
@@ -76,7 +76,7 @@ const Footer = () => {
       <div className={classNames(s.infoContainer, "container")}>
         <span className={s.info}>
           © Copywriting {currentYear}. Created with <HeartOutlined /> by Yuliia
-          Gorgodze
+          Volodina
         </span>
       </div>
     </footer>

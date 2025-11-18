@@ -48,11 +48,11 @@ const SocialLinks = () => {
               target="_blank"
               rel="noreferrer"
             >
-              Linkidin
+              Linkedin
             </a>
             <a
               className={s.link}
-              href="https://github.com/yuliia-gorgodze"
+              href="https://github.com/yuliia-Volodina"
               target="_blank"
               rel="noreferrer"
             >

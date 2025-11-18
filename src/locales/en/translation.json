@@ -1,5 +1,5 @@
 {
-  "shortName": "Yuliia.G",
+  "shortName": "Yuliia.V",
   "menu": {
     "experience": "Experience",
     "projects": "Projects",
@@ -7,7 +7,7 @@
     "contact": "Contact"
   },
   "hero": {
-    "name": "I'm Yuliia Gorgodze",
+    "name": "I'm Yuliia Volodina",
     "vocation": "A frontend developer",
     "basedInUkraine": "based in Ukraine",
     "textAboutMe": "I'm probably the most passionate programmer you'll ever work with. If you have a great project that requires amazing skills, I'm with you."
@@ -19,6 +19,7 @@
   "experience": {
     "title": "Professional Experience",
     "titleOther": "Additional Experience",
+    "telegramGames": "Telegram Game Development & AI Bot",
     "commercialExperience": "of commercial experience",
     "additionalExperience": [
       {
@@ -64,6 +65,15 @@
     "summary": "Summary",
     "summaryDescription": " Innovative and dedicated front-end developer with 4+ years of experience building dynamic, user-centric web applications using React, Next.js and TypeScript. Participated in the development of 30+ projects in various industries. Passionate about developing innovative solutions and tracking the latest industry trends."
   },
+  "telegramGames": {
+    "description": [
+      "Developed three Telegram games with integrated animations and optimized logic for mobile devices.",
+      "Used Spine for character creation and animations.",
+      "Created a Telegram bot for AI-based image generation from text prompts.",
+      "Utilized Deno, Grammy to optimize the backend and interact with the Telegram API.",
+      "Used Copilot / Copilot Edits to speed up development and improve code quality."
+    ]
+  },
   "skillset": {
     "title": "Skillset",
     "description": "I am confident in 3 skills out of 4 skills on this list, which allows me to cope with any front-end tasks assigned, and a basic knowledge of Node.js allows me to better understand the communication between the front-end and back-end.",
@@ -87,6 +97,14 @@
       {
         "title": "Testing & Optimization:",
         "value": "Jest, Lighthouse, Webpack, Babel"
+      },
+      {
+        "title": "Game Development:",
+        "value": "Spine"
+      },
+      {
+        "title": "Backend & AI:",
+        "value": "Deno, Grammy, Cline"
       },
       {
         "title": "Other:",
@@ -181,5 +199,5 @@
     "resend": "resend",
     "error": "  Ops... Something went wrong. Contact me in a way convenient for you or try again."
   },
-  "name": "Yuliia Gorgodze"
+  "name": "Yuliia Volodina"
 }

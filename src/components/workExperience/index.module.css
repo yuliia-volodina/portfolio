@@ -12,6 +12,11 @@
   font-weight: 700;
   max-width: 780px;
 }
+.telegramTitle {
+  font-size: 40px;
+  font-weight: 700;
+  max-width: 780px;
+}
 .workList,
 .workListOther {
   gap: 20px;
@@ -54,6 +59,23 @@
   margin-bottom: 20px;
   display: inline-block;
   color: var(--lightGrey);
+}
+.telegramDescription {
+  position: relative;
+  line-height: 150%;
+  font-weight: 400;
+  margin-top: 9px;
+  margin-bottom: 9px;
+  display: inline-block;
+  color: var(--lightGrey);
+  padding-left: 20px;
+}
+.telegramDescription::before {
+  content: "-";
+  position: absolute;
+  font-size: 30px;
+  color: inherit;
+  left: 2px;
 }
 .description > li {
   font-size: 18px;
@@ -126,6 +148,10 @@
 @media screen and (max-width: 768px) {
   .num {
     font-size: 117px;
+  }
+
+  .telegramTitle {
+    font-size: 25px;
   }
 
   .workList {
