@@ -29,7 +29,7 @@ const Footer = () => {
             exit="hidden"
             ref={ref}
           >
-            Yuliia.G
+            Yuliia.V
           </motion.span>
         </div>
         <motion.div
@@ -52,22 +52,28 @@ const Footer = () => {
               Instagram
             </a>
             <a
-              href="https://www.linkedin.com/in/yuliia-gorgozka-9b0451200/"
+              href="https://www.linkedin.com/in/yuliia-volodina-9b0451200/"
               className={s.link}
               rel="noreferrer"
               target="_blank"
-              ref={ref}
             >
-              Linkidin
+              LinkedIn
             </a>
             <a
               href="https://github.com/yuliia-Volodina"
               className={s.link}
               rel="noreferrer"
               target="_blank"
-              ref={ref}
             >
               Github
+            </a>
+            <a
+              href="https://t.me/MJ_Yuliia"
+              className={s.link}
+              rel="noreferrer"
+              target="_blank"
+            >
+              Telegram
             </a>
           </div>
           <Nav />
@@ -75,7 +81,7 @@ const Footer = () => {
       </div>
       <div className={classNames(s.infoContainer, "container")}>
         <span className={s.info}>
-          © Copywriting {currentYear}. Created with <HeartOutlined /> by Yuliia
+          © Copyright {currentYear}. Created with <HeartOutlined /> by Yuliia
           Volodina
         </span>
       </div>

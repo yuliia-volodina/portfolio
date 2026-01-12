@@ -86,8 +86,8 @@ const WorkExperience = () => {
         exit="hidden"
         ref={ref}
       >
-        {t("general.moreThen")}
-        <span className={s.yearsTitle}>4 {t("general.years")}</span>
+        {t("general.moreThen")}{" "}
+        <span className={s.yearsTitle}>5 {t("general.years")}</span>{" "}
         {t("experience.commercialExperience")}
       </motion.h2>
 

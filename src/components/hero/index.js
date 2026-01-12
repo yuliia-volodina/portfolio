@@ -50,8 +50,8 @@ const Hero = () => {
         exit="hidden"
       >
         <h1 className={s.name}>{t("hero.name")}</h1>
-        <span className={s.vocation}>{t("hero.vocation")}</span>
-        <span className={s.location}>{t("hero.basedInUkraine")}</span>
+        <span className={s.vocation}>{t("hero.vocation")}</span>{" "}
+        <span className={s.location}>{t("hero.basedInUkraine")}</span>{" "}
         <span className={s.info}>{t("hero.textAboutMe")}</span>
       </motion.div>
       <motion.div
@@ -63,8 +63,8 @@ const Hero = () => {
         exit="hidden"
       >
         <h1 className={s.name}>{t("hero.name")}</h1>
-        <span className={s.vocation}>{t("hero.vocation")}</span>
-        <span className={s.location}>{t("hero.basedInUkraine")}</span>
+        <span className={s.vocation}>{t("hero.vocation")}</span>{" "}
+        <span className={s.location}>{t("hero.basedInUkraine")}</span>{" "}
         <span className={s.info}>{t("hero.textAboutMe")}</span>
       </motion.div>
     </div>

@@ -58,6 +58,14 @@ const SocialLinks = () => {
             >
               Github
             </a>
+            <a
+              className={s.link}
+              href="https://t.me/MJ_Yuliia"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Telegram
+            </a>
           </div>
         </div>
         <div className={s.rightSide} />

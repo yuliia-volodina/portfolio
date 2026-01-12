@@ -8,9 +8,9 @@
   },
   "hero": {
     "name": "I'm Yuliia Volodina",
-    "vocation": "A frontend developer",
-    "basedInUkraine": "based in Ukraine",
-    "textAboutMe": "I'm probably the most passionate programmer you'll ever work with. If you have a great project that requires amazing skills, I'm with you."
+    "vocation": "Senior Frontend / Full-Stack JavaScript Developer",
+    "basedInUkraine": "based in Ukraine.",
+    "textAboutMe": "Versatile Senior Frontend / Full-Stack JavaScript Developer with 5+ years of commercial experience building SaaS platforms, AI tools, collaborative editors, real-time applications, Telegram mini-apps, Web3 integrations and high-performance interfaces using React, Next.js, TypeScript, Deno and Node.js."
   },
   "certifications": {
     "title": "Certifications",
@@ -21,113 +21,118 @@
     "titleOther": "Additional Experience",
     "telegramGames": "Telegram Game Development & AI Bot",
     "commercialExperience": "of commercial experience",
+    "keyAchievements": "Key Achievements",
+    "achievements": [
+      "Participated in the development of 50+ production applications across SaaS, AI, e-commerce, Web3, gaming and B2B tools.",
+      "Worked on multiple SaaS products with authentication, organizations, billing, real-time collaboration and workflow engines.",
+      "Contributed to AI image/video generation platforms, LLM workflow automation, Python-based pipelines and multi-model integrations.",
+      "Built two admin dashboards from scratch (Bubble Jump & Snake Game), including analytics, moderation and game economy tools.",
+      "Developed modules for real-time systems using WebSockets, Socket.IO, Colyseus and Y.js.",
+      "Helped design and implement microservice interactions (Deno + RabbitMQ + Redis).",
+      "Mentored junior developers for 2+ years."
+    ],
     "additionalExperience": [
       {
-        "title": "Mentorship and Tutoring:",
-        "description": "Spent over two years tutoring aspiring developers, many of whom now successfully work as part of established teams. This role involved guiding learners through their early coding challenges, particularly in React and JavaScript, fostering a community of skilled developers."
+        "title": "Mentorship & Learning:",
+        "description": "For over three years, I've been mentoring developers — from beginners to engineers with commercial experience. I help them take their first steps and grow professionally by solving real-world problems in the JavaScript ecosystem, including React, Next.js, and Vite. Through this work, I've built a community where developers share knowledge, exchange experience, and support one another."
       },
       {
         "title": "Game Development:",
-        "description": "Worked on several small projects as a game developer, exploring creative approaches to coding and user interaction."
+        "description": "Small indie and experimental projects with focus on gameplay mechanics and interaction. Prototyping ideas and creative coding. Experience with 2D games and browser-based projects, using Canvas and WebGL for visualization."
       }
     ],
     "deu": {
-      "fromTo": "June 2020 – May 2023 (3.7 years)",
+      "fromTo": "June 2020 – May 2023",
       "description": [
-        "Developed and maintained over 20 web applications using React and Next.js, consistently enhancing user experiences and application performance.",
-        "Collaborated with cross-functional teams to design and implement user-friendly interfaces, receiving consistent positive feedback from clients and end-users."
+        "Developed 20+ React/Next.js applications with focus on performance and strong UX.",
+        "Built reusable UI components and collaborated with backend teams.",
+        "Improved performance, layout structure and accessibility across multiple projects."
       ]
     },
     "erbology": {
-      "fromTo": "February 2023 – May 2023 (0.4 years)",
+      "fromTo": "Feb 2023 – May 2023",
       "description": [
-        "Led the migration of a WordPress-based online store to a high-performance React application, increasing site speed.",
-        "Developed a custom admin panel that streamlined content management, reducing update times.",
-        "Worked closely with the client to ensure that the new application met their specific needs and enhanced user experience."
+        "Participated in migration from WordPress to a fully custom React frontend.",
+        "Built content management tooling and improved site speed."
       ]
     },
     "bozhenko": {
-      "fromTo": "July 2023 – September 2023 (0.3 years)",
+      "fromTo": "Jul 2023 – Sep 2023",
       "description": [
-        "Completed two major projects: developed an online auto parts store and a corporate website using Next.js.",
-        "Implemented SWR for efficient data fetching and real-time updates, optimizing performance and reducing load times.",
-        "Focused on optimizing site performance and ensuring responsive design to improve user experience."
+        "Delivered two commercial projects (online parts store + corporate website).",
+        "Integrated SWR for efficient data fetching and performance boosts."
       ]
     },
     "go7": {
-      "fromTo": "2024 (0.4 years)",
+      "fromTo": "2024",
       "description": [
-        "Architected the front-end of a flight booking platform using Next.js, focusing on scalability and performance.",
-        "Collaborated with backend developers to integrate APIs, ensuring smooth data flow and improved user experience."
+        "Worked on frontend architecture for a flight booking platform.",
+        "Integrated backend APIs and optimized performance."
       ]
     },
     "professional": "Professional",
     "summary": "Summary",
-    "summaryDescription": " Innovative and dedicated front-end developer with 4+ years of experience building dynamic, user-centric web applications using React, Next.js and TypeScript. Participated in the development of 30+ projects in various industries. Passionate about developing innovative solutions and tracking the latest industry trends."
+    "summaryDescription": "Versatile Senior Frontend / Full-Stack JavaScript Developer with 5+ years of commercial experience. Worked on 50+ projects across SaaS, AI, e-commerce, gaming, workflow tooling, B2B systems and Web3. Strong at UI/UX engineering, clean architecture, scalability, DX, performance optimisation and modern product engineering."
   },
   "telegramGames": {
     "description": [
-      "Developed three Telegram games with integrated animations and optimized logic for mobile devices.",
+      "Developed Telegram games with integrated animations and optimized logic for mobile devices.",
       "Used Spine for character creation and animations.",
       "Created a Telegram bot for AI-based image generation from text prompts.",
       "Utilized Deno, Grammy to optimize the backend and interact with the Telegram API.",
-      "Used Copilot / Copilot Edits to speed up development and improve code quality."
+      "Used Copilot / Copilot Edits, Cursor, Cursor Studio to speed up development and improve code quality."
     ]
   },
   "skillset": {
-    "title": "Skillset",
-    "description": "I am confident in 3 skills out of 4 skills on this list, which allows me to cope with any front-end tasks assigned, and a basic knowledge of Node.js allows me to better understand the communication between the front-end and back-end.",
+    "title": "Tech Stack",
+    "description": "Strong expertise across modern frontend and backend technologies, with focus on React, Next.js, TypeScript and real-time systems.",
     "skills": [
       {
-        "title": "Frontend Technologies:",
-        "value": "React, Next.js, JavaScript, TypeScript, HTML5, CSS/SCSS"
+        "title": "Frontend:",
+        "value": "React 18/19 · Next.js 13/14/15 · TypeScript · TailwindCSS · SCSS Modules · shadcn/ui · Radix · React Router · Framer Motion · Spine WebGL · React Three Fiber · tldraw · Storybook · React Query · Redux · SWR · React Hook Form · Zod · Axios · i18next · SSR/SSG/ISR"
       },
       {
-        "title": "Frameworks & Libraries:",
-        "value": "Tailwind CSS, Bootstrap, MaterialUI, Antd, Anijs, ThreeJs, Framer Motion, StoryBook"
+        "title": "Backend & APIs:",
+        "value": "Node.js · Deno · Express.js · Oak · Supabase (Auth, DB, Storage) · Prisma · Drizzle ORM · MongoDB · PostgreSQL · MySQL/MariaDB · Redis (BullMQ, caching, queues) · RabbitMQ (AMQP) · REST APIs · WebSockets · Socket.IO · Colyseus · Stripe · PayPal · OpenAI API · Gemini API · FAL.ai"
       },
       {
-        "title": "Tools & Platforms:",
-        "value": "Figma, Slack, Jira, Trello, Git, Firebase, MongoDB, Postman"
+        "title": "Real-Time / Collaboration:",
+        "value": "WebSockets · Colyseus · Y.js / Hocuspocus · Socket.IO"
       },
       {
-        "title": "State Management & Data Handling:",
-        "value": "Redux, SWR (Bozhenko project), GraphQL, ReactRouter, ReactHookForm, Web3"
+        "title": "AI / Media Processing:",
+        "value": "LLM workflows · XLIFF processing · AIMT · AIPE · QA pipelines · Sharp · Canvas · FFmpeg · AI image & video models (FLUX, Gemini, OpenAI, Mistral, LTX Video, WAN, etc.)"
       },
       {
-        "title": "Testing & Optimization:",
-        "value": "Jest, Lighthouse, Webpack, Babel"
+        "title": "Game / Web3:",
+        "value": "Telegram WebApp SDK · Node Telegram Bot API · TON blockchain · TON Connect · 3D RTF (Three.js)"
       },
       {
-        "title": "Game Development:",
-        "value": "Spine"
+        "title": "DevOps / Infra:",
+        "value": "Docker · Docker Compose · Nginx · Vercel · Netlify · GitHub Actions · Prometheus · Grafana · Sentry · Terraform (IaC) · AWS S3"
       },
       {
-        "title": "Backend & AI:",
-        "value": "Deno, Grammy, Cline"
-      },
-      {
-        "title": "Other:",
-        "value": "Node.js (Basic), i18next, moment, Lodash, Stripe integration"
+        "title": "CMS / Platforms:",
+        "value": "PayloadCMS · Supastarter · 11ty (Eleventy)"
       }
     ],
 
     "mainSkills": [
       {
-        "title": "Node.js",
-        "value": "There is basic knowledge. I personally developed a commercial project, an application for monitoring production processes using React and Node.js."
+        "title": "React",
+        "value": "Strong knowledge of React 18/19, more than 40 completed projects. Expert in hooks, context, performance optimization and modern patterns."
       },
       {
         "title": "Next.js",
-        "value": "Confident knowledge of Next.js, last year 10+ projects implemented with it."
+        "value": "Confident knowledge of Next.js 13/14/15, 10+ projects implemented. Expert in App Router, Server Components, SSR/SSG/ISR strategies."
       },
       {
-        "title": "JS/TS",
-        "value": "Three years of experience. I also have experience working on projects with VanillaJS."
+        "title": "TypeScript",
+        "value": "5+ years of experience. Strong typing, generics, advanced patterns and type-safe API design."
       },
       {
-        "title": "React",
-        "value": "Strong knowledge of React, more than 25 completed projects."
+        "title": "Node.js / Deno",
+        "value": "Full-stack capabilities. Built REST APIs, real-time services, microservices with Express, Oak, BullMQ, Redis, RabbitMQ."
       }
     ],
     "certifications": {
@@ -137,16 +142,77 @@
   },
   "socialLinks": {
     "title": "Social Links",
-    "description": "We save your life and work history online"
+    "description": "We keep your professional story online"
   },
   "general": {
     "moreThen": "more than",
     "years": " years",
     "projects": "Projects",
     "note": "Note: A VPN is required to access the site.",
-    "ps": " Ps.  and many, many others projects, inaccessible. "
+    "ps": "P.S. And many, many other projects that are not publicly accessible."
   },
 
+  "selectedProjects": {
+    "title": "Selected Projects (AI / SaaS / Web3 / Real-time)",
+    "aiCanvas": {
+      "title": "AiCanvas — AI Image & Video Generation Platform",
+      "role": "Frontend + Backend Contribution",
+      "stack": "React 19, Vite 7, Tailwind 4, Node.js, Express, MongoDB, Redis/BullMQ, AWS S3, FFmpeg, Y.js, Stripe",
+      "contributions": [
+        "Participated in building core UI for image/video generation & editing (text-to-image, image-to-image).",
+        "Worked on real-time collaborative editor using Y.js / Hocuspocus.",
+        "Contributed to backend modules: image processing, queues, AI model pipelines.",
+        "Integrated AI models (FLUX, OpenAI, Gemini, FAL models).",
+        "Helped configure BullMQ queues, media pipelines and SSR rendering."
+      ]
+    },
+    "bubbleJump": {
+      "title": "Bubble Jump — Web3 Telegram Mini-App Game",
+      "role": "Full-Stack Developer",
+      "stack": "Next.js 14, React 18, Socket.IO, MongoDB, Redis, NextAuth, Node Telegram Bot API, OpenAI, PayPal, Docker",
+      "contributions": [
+        "Created the entire admin panel from scratch (React Admin + custom logic).",
+        "Worked on gameplay UI, SocialFi quests, inventory, leaderboards.",
+        "Integrated real-time mechanics via WebSockets.",
+        "Contributed to backend logic (MongoDB, Redis, API Routes).",
+        "Integrated AI chat logic (OpenAI).",
+        "Participated in Telegram bot development."
+      ]
+    },
+    "snakeGame": {
+      "title": "Snake Game — Real-time Multiplayer Web3 Game (TON)",
+      "role": "Frontend Developer + Admin Panel + Real-time Integrations",
+      "stack": "React 18, Three.js, Colyseus, Deno Oak, MongoDB, Redis, TON Connect, Telegram WebApp SDK, Docker, Terraform",
+      "contributions": [
+        "Developed key parts of game UI and 3D rendering logic.",
+        "Integrated real-time gameplay via Colyseus.",
+        "Integrated TON Wallet & Web3 economy flows.",
+        "Built admin panel from scratch (moderation, economy management, analytics).",
+        "Helped with Deno backend endpoints and blockchain workflows."
+      ]
+    },
+    "orangeFlow": {
+      "title": "OrangeFlow — Workflow Builder & Project Management System",
+      "role": "Frontend Engineer",
+      "stack": "React 19, Rete.js, Tailwind, Radix, Deno, MongoDB, RabbitMQ, Redis",
+      "contributions": [
+        "Built modules for project management, teams, and token management.",
+        "Developed UI/UX parts of the workflow builder editor.",
+        "Integrated with microservices (Gateway, Auth, Workflows, Teams).",
+        "Participated in API design and frontend-backend communication."
+      ]
+    },
+    "otherProjects": {
+      "title": "Other Projects",
+      "list": [
+        "Shift Planning Calendar — Responsive workforce scheduling UI (Next.js, SCSS, i18next).",
+        "EditPerfectly — AI-driven XLIFF translation SaaS (Next.js, Supabase, Stripe, Python pipelines).",
+        "11ty Marketing Sites — High-performance JAMstack websites (11ty, SCSS, TypeScript).",
+        "Door Configurator — Multi-tenant SaaS (Laravel 11, Tailwind, Redis, Docker).",
+        "Telegram Games & AI Bots — Multiple mini-games and bots with Deno + grammy + AI."
+      ]
+    }
+  },
   "projects": [
     {
       "title": "IoT Smart Home",
@@ -158,7 +224,7 @@
     },
     {
       "title": "Gardens",
-      "description": "Created a responsive website for a landscaping company based in England using React. Focused on delivering a user-friendly interface to showcase the company’s services effectively."
+      "description": "Created a responsive website for a landscaping company based in England using React. Focused on delivering a user-friendly interface to showcase the company's services effectively."
     },
     {
       "title": "Axelar Wrapper",
