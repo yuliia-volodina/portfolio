@@ -10,7 +10,7 @@
     "name": "I'm Yuliia Volodina",
     "vocation": "Senior Frontend / Full-Stack JavaScript Developer",
     "basedInUkraine": "based in Ukraine.",
-    "textAboutMe": "Versatile Senior Frontend / Full-Stack JavaScript Developer with 5+ years of commercial experience building SaaS platforms, AI tools, collaborative editors, real-time applications, Telegram mini-apps, Web3 integrations and high-performance interfaces using React, Next.js, TypeScript, Deno and Node.js."
+    "textAboutMe": "Versatile Developer with 5+ years of commercial experience building SaaS platforms, AI tools, collaborative editors, real-time applications, Telegram mini-apps, Web3 integrations and high-performance interfaces using React, Next.js, TypeScript, Deno and Node.js."
   },
   "certifications": {
     "title": "Certifications",
@@ -28,7 +28,7 @@
       "Contributed to AI image/video generation platforms, LLM workflow automation, Python-based pipelines and multi-model integrations.",
       "Built two admin dashboards from scratch (Bubble Jump & Snake Game), including analytics, moderation and game economy tools.",
       "Developed modules for real-time systems using WebSockets, Socket.IO, Colyseus and Y.js.",
-      "Helped design and implement microservice interactions (Deno + RabbitMQ + Redis).",
+      "Helped design and implement microservice interactions (Deno + Redis).",
       "Mentored junior developers for 2+ years."
     ],
     "additionalExperience": [
@@ -93,7 +93,7 @@
       },
       {
         "title": "Backend & APIs:",
-        "value": "Node.js · Deno · Express.js · Oak · Supabase (Auth, DB, Storage) · Prisma · Drizzle ORM · MongoDB · PostgreSQL · MySQL/MariaDB · Redis (BullMQ, caching, queues) · RabbitMQ (AMQP) · REST APIs · WebSockets · Socket.IO · Colyseus · Stripe · PayPal · OpenAI API · Gemini API · FAL.ai"
+        "value": "Node.js · Deno · Express.js · Oak · Supabase (Auth, DB, Storage) · Prisma · Drizzle ORM · MongoDB · PostgreSQL · MySQL/MariaDB · Redis · REST APIs · WebSockets · Socket.IO · Colyseus · Stripe · PayPal · OpenAI API · Gemini API · FAL.ai"
       },
       {
         "title": "Real-Time / Collaboration:",
@@ -132,7 +132,7 @@
       },
       {
         "title": "Node.js / Deno",
-        "value": "Full-stack capabilities. Built REST APIs, real-time services, microservices with Express, Oak, BullMQ, Redis, RabbitMQ."
+        "value": "Full-stack capabilities. Built REST APIs, real-time services, microservices with Express, Oak, Redis."
       }
     ],
     "certifications": {
@@ -157,13 +157,13 @@
     "aiCanvas": {
       "title": "AiCanvas — AI Image & Video Generation Platform",
       "role": "Frontend + Backend Contribution",
-      "stack": "React 19, Vite 7, Tailwind 4, Node.js, Express, MongoDB, Redis/BullMQ, AWS S3, FFmpeg, Y.js, Stripe",
+      "stack": "React 19, Vite 7, Tailwind 4, Node.js, Express, MongoDB, Redis, AWS S3, FFmpeg, Y.js, Stripe",
       "contributions": [
         "Participated in building core UI for image/video generation & editing (text-to-image, image-to-image).",
         "Worked on real-time collaborative editor using Y.js / Hocuspocus.",
         "Contributed to backend modules: image processing, queues, AI model pipelines.",
         "Integrated AI models (FLUX, OpenAI, Gemini, FAL models).",
-        "Helped configure BullMQ queues, media pipelines and SSR rendering."
+        "Helped configure media pipelines and SSR rendering."
       ]
     },
     "bubbleJump": {
@@ -194,7 +194,7 @@
     "orangeFlow": {
       "title": "OrangeFlow — Workflow Builder & Project Management System",
       "role": "Frontend Engineer",
-      "stack": "React 19, Rete.js, Tailwind, Radix, Deno, MongoDB, RabbitMQ, Redis",
+      "stack": "React 19, Rete.js, Tailwind, Radix, Deno, MongoDB, Redis",
       "contributions": [
         "Built modules for project management, teams, and token management.",
         "Developed UI/UX parts of the workflow builder editor.",

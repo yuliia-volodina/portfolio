@@ -10,7 +10,7 @@
     "name": "Я — Юлія Володіна",
     "vocation": "Senior Frontend / Full-Stack JavaScript розробниця",
     "basedInUkraine": "базуюсь в Україні.",
-    "textAboutMe": "Різнопланова Senior Frontend / Full-Stack JavaScript розробниця з 5+ роками комерційного досвіду створення SaaS платформ, AI інструментів, колаборативних редакторів, додатків у реальному часі, Telegram міні-апів, Web3 інтеграцій та високопродуктивних інтерфейсів на React, Next.js, TypeScript, Deno та Node.js."
+    "textAboutMe": "Різнопланова розробниця з 5+ роками комерційного досвіду створення SaaS платформ, AI інструментів, колаборативних редакторів, додатків у реальному часі, Telegram міні-апів, Web3 інтеграцій та високопродуктивних інтерфейсів на React, Next.js, TypeScript, Deno та Node.js."
   },
   "certifications": {
     "title": "Сертифікати",
@@ -28,7 +28,7 @@
       "Внесла вклад у AI платформи для генерації зображень/відео, LLM workflow автоматизацію, Python-based пайплайни та мультимодельні інтеграції.",
       "Створила дві адмін-панелі з нуля (Bubble Jump & Snake Game), включаючи аналітику, модерацію та інструменти для управління ігровою економікою.",
       "Розробила модулі для real-time систем з використанням WebSockets, Socket.IO, Colyseus та Y.js.",
-      "Допомогла спроєктувати та імплементувати взаємодію мікросервісів (Deno + RabbitMQ + Redis).",
+      "Допомогла спроєктувати та імплементувати взаємодію мікросервісів (Deno + Redis).",
       "Менторила молодших розробників протягом 2+ років."
     ],
     "additionalExperience": [
@@ -93,7 +93,7 @@
       },
       {
         "title": "Backend & APIs:",
-        "value": "Node.js · Deno · Express.js · Oak · Supabase (Auth, DB, Storage) · Prisma · Drizzle ORM · MongoDB · PostgreSQL · MySQL/MariaDB · Redis (BullMQ, кешування, черги) · RabbitMQ (AMQP) · REST APIs · WebSockets · Socket.IO · Colyseus · Stripe · PayPal · OpenAI API · Gemini API · FAL.ai"
+        "value": "Node.js · Deno · Express.js · Oak · Supabase (Auth, DB, Storage) · Prisma · Drizzle ORM · MongoDB · PostgreSQL · MySQL/MariaDB · Redis · REST APIs · WebSockets · Socket.IO · Colyseus · Stripe · PayPal · OpenAI API · Gemini API · FAL.ai"
       },
       {
         "title": "Real-Time / Колаборація:",
@@ -131,7 +131,7 @@
       },
       {
         "title": "Node.js / Deno",
-        "value": "Full-stack можливості. Створювала REST APIs, real-time сервіси, мікросервіси з Express, Oak, BullMQ, Redis, RabbitMQ."
+        "value": "Full-stack можливості. Створювала REST APIs, real-time сервіси, мікросервіси з Express, Oak, Redis."
       }
     ],
     "certifications": {
@@ -156,13 +156,13 @@
     "aiCanvas": {
       "title": "AiCanvas — AI платформа для генерації зображень та відео",
       "role": "Frontend + Backend внесок",
-      "stack": "React 19, Vite 7, Tailwind 4, Node.js, Express, MongoDB, Redis/BullMQ, AWS S3, FFmpeg, Y.js, Stripe",
+      "stack": "React 19, Vite 7, Tailwind 4, Node.js, Express, MongoDB, Redis, AWS S3, FFmpeg, Y.js, Stripe",
       "contributions": [
         "Брала участь у створенні основного UI для генерації та редагування зображень/відео (text-to-image, image-to-image).",
         "Працювала над real-time колаборативним редактором з використанням Y.js / Hocuspocus.",
         "Внесла вклад у backend модулі: обробка зображень, черги, AI пайплайни.",
         "Інтегрувала AI моделі (FLUX, OpenAI, Gemini, FAL моделі).",
-        "Допомогла налаштувати BullMQ черги, медіа пайплайни та SSR рендеринг."
+        "Допомогла налаштувати медіа пайплайни та SSR рендеринг."
       ]
     },
     "bubbleJump": {
@@ -193,7 +193,7 @@
     "orangeFlow": {
       "title": "OrangeFlow — Конструктор робочих процесів та система управління проєктами",
       "role": "Frontend інженерка",
-      "stack": "React 19, Rete.js, Tailwind, Radix, Deno, MongoDB, RabbitMQ, Redis",
+      "stack": "React 19, Rete.js, Tailwind, Radix, Deno, MongoDB, Redis",
       "contributions": [
         "Створила модулі для управління проєктами, командами та токенами.",
         "Розробила UI/UX частини візуального редактора workflow.",

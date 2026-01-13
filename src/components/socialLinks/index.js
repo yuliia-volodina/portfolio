@@ -44,7 +44,7 @@ const SocialLinks = () => {
 
             <a
               className={s.link}
-              href="https://www.linkedin.com/in/yuliia-gorgozka-9b0451200/"
+              href="https://www.linkedin.com/in/yuliia-volodina-9b0451200/"
               target="_blank"
               rel="noreferrer"
             >
